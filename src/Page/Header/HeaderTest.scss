@@ -1,0 +1,11 @@
+
+.title{
+    margin-right: 2rem!important;
+    &:hover{
+        border-bottom: 1px solid #00B9F2;
+        cursor: pointer;
+    }
+}
+.MuiPaper-elevation4 {
+    box-shadow: none!important;
+}

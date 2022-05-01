@@ -1,0 +1,19 @@
+.processBox{
+    border: 1px solid #ddd;
+    background: #fff;
+    font-weight: 700;
+    min-width: 305px;
+    padding: 20px;
+    &:hover{
+        color: #00B9F2;
+        cursor: pointer;
+    }
+    &__active{
+        background: #fff;
+        border: 1px solid #ddd;
+        font-weight: 700;
+        min-width: 305px;
+        padding: 20px;
+        color: #00B9F2;
+    }
+}
